@@ -12,6 +12,7 @@ body
 #cabecera
 {
     background: url("../Imagenes/obiwan.png") no-repeat center center center;
+    background-color: beige;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: lightpink;
     font-weight: bold;
